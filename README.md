@@ -9,3 +9,4 @@
 - Magic 8 Ball
 - PHP Number Guessing
 - FizzBuzz
+- Repetitive Cafe
