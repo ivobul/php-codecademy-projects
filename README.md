@@ -5,3 +5,4 @@
 - Mad Lib Functions
 - The Hitchhiker's Guide to PHP Math Functions
 - Bob's Budget
+- HTML - PHP Calculator
