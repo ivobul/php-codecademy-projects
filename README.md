@@ -1,3 +1,3 @@
 # LEARN PHP | CODECADEMY PROJECTS
 
-## LEARN PHP
+## Projects
