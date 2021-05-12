@@ -3,3 +3,4 @@
 ## Projects
 - World Traveler
 - Mad Lib Functions
+- The Hitchhiker's Guide to PHP Math Functions
