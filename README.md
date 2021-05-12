@@ -1,4 +1,4 @@
-# LEARN PHP | CODECADEMY PROJECTS
+# Learn PHP | Codecademy Projects
 
 ## Projects
 - World Traveler
