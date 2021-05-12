@@ -8,3 +8,4 @@
 - HTML - PHP Calculator
 - Magic 8 Ball
 - PHP Number Guessing
+- FizzBuzz
