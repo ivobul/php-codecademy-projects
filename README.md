@@ -24,6 +24,7 @@
 
 - Magic 8 Ball
 - PHP Number Guessing
+- Save the Farm!
 
 ## Loops in PHP
 
